@@ -29,7 +29,7 @@ Built so a sales engineer can prep a call without a paid E-Rate data vendor. Sco
 
 ## Coverage
 
-Michigan, Indiana, Illinois, Ohio, Kentucky, Wisconsin, New York, New Jersey.
+Michigan, Indiana, Illinois, Ohio, Kentucky, Wisconsin.
 
 Source data is public USAC open data, structured and refreshed daily.
 
