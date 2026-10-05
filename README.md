@@ -13,6 +13,10 @@ Scout is a private product on top of that public data. It answers four questions
 
 Built so a sales engineer can prep a call without a paid E-Rate data vendor. Scout does not file with USAC and is not a replacement for [EPC](https://www.usac.org/e-rate/).
 
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=Z5SDZULELYGNS"><img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Donate with PayPal"/></a>
+</p>
+
 ## What it covers
 
 **Form 470s.** Open competitive bids, grouped by applicant. Each filing shows what they asked for, Category 1 or 2, when the window closes, and the application number. Switch between a table, a map of open 470s, and a bid-close calendar.
@@ -38,3 +42,10 @@ Source data is public USAC open data, structured and refreshed daily.
 Scout is a private product. This repository is the public card only — no source, no issues, no app login.
 
 Portfolio: [nano.cmdlab.tech](https://nano.cmdlab.tech)
+---
+
+## Support
+
+Optional donations help keep CMDLAB tools free and maintained:
+
+[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=Z5SDZULELYGNS)
